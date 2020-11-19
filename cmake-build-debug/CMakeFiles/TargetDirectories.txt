@@ -1,3 +1,3 @@
-/Users/roy/Documents/Project/web_server/Web-Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/roy/Documents/Project/web_server/Web-Server/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/roy/Documents/Project/web_server/Web-Server/cmake-build-debug/CMakeFiles/Web_Server.dir
+/Users/roy/Documents/Project/Web-Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/roy/Documents/Project/Web-Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roy/Documents/Project/Web-Server/cmake-build-debug/CMakeFiles/Web_Server.dir
